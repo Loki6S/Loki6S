@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Loki6S
+- 👋 Hi, I’m Loki (@Loki6S)
 - 👀 I’m interested in learning Python, AWS and SQL
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects 
