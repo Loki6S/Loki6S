@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Loki (@Loki6S)
 - 👀 I’m interested in learning Python, AWS and SQL
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and node.js
 - 💞️ I’m looking to collaborate on Python projects 
 - 📫 How to reach me - email: lokendrasinghsolanki06@gmail.com
 
